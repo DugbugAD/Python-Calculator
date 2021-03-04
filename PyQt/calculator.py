@@ -1,8 +1,8 @@
 '''
 Version: 3.7.8
 Libraries: 
-- PyQt5 (pip3 install pyqt5)
-- Sys (default with python)
+- pyqt5 (pip3 install pyqt5)
+- sys (default with python)
 Tested on macOS 11.1 Big Sur
 '''
 
